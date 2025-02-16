@@ -1,0 +1,30 @@
+{
+  "resources/js/app.jsx": {
+    "file": "assets/app-DF8bGIuN.js",
+    "name": "app",
+    "src": "resources/js/app.jsx",
+    "isEntry": true,
+    "dynamicImports": [
+      "resources/js/pages/sub.jsx",
+      "resources/js/pages/top.jsx"
+    ]
+  },
+  "resources/js/pages/sub.jsx": {
+    "file": "assets/sub-CnlGl5U3.js",
+    "name": "sub",
+    "src": "resources/js/pages/sub.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  },
+  "resources/js/pages/top.jsx": {
+    "file": "assets/top-DUkCX31E.js",
+    "name": "top",
+    "src": "resources/js/pages/top.jsx",
+    "isDynamicEntry": true,
+    "imports": [
+      "resources/js/app.jsx"
+    ]
+  }
+}
