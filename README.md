@@ -13,3 +13,7 @@ urlにより表示に用いるjsxファイルを変更するサンプル
 ## 3.axios
 
 axiosを使用したSolidJS - Hono間のデータ通信
+
+## 4.tailwindcss4
+
+tailwindcss4の導入とcssファイルの読み込み対応
